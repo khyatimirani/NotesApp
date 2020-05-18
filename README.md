@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd003.png" alt="iOS Developer Nanodegree logo" height="70" >
 
 # iOS Persistence and Core Data
@@ -21,3 +22,7 @@ Generally speaking, most projects can run without any additional setup. However,
 ## Maintainers
 
 @OwenLaRosa
+=======
+# NotesApp
+Creating a notes app which persists data offline using Core Data
+>>>>>>> e2648dbdbdc51d8d40050be25a177e47bac795a8
